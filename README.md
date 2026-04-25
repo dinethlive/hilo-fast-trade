@@ -499,7 +499,7 @@ These are load-bearing.
 
 ## Ancestry
 
-`hilo-fast` shares scaffolding with [kairos-trade](../kairos-trade). Reused verbatim:
+`hilo-fast` shares scaffolding with [kairos-trade](https://github.com/dinethlive/kairos-trade). Reused verbatim:
 
 - OAuth + OTP auth flow
 - Session rollover and reactive-reconnect lifecycle in the WS client
